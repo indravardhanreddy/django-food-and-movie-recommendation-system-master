@@ -24,7 +24,7 @@ SECRET_KEY = '40_$n*hs61m(shf^y0q6&th7i^b!t1rw6k-458_0)ed34ji73v'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
-ALLOWED_HOSTS = ['', '127.0.0.1']
+ALLOWED_HOSTS = ['fmrecommendation.herokuapp.com', '127.0.0.1']
 
 # Application definition
 
